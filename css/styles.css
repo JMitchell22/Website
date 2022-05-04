@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #F9F7F7;
+  color: #3F72AF;
+}
+
+h2, h3 {
+  color: #112D4E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #DBE2EF;
+  border-width: 10px;
+  width: 5%;
+  margin: 50px auto;
+}
+
+.header {
+  background-color: #DBE2EF;
+  padding: 50px;
+}
+
+.about {
+  padding: 50px;
+}
+
+.contact {
+  background-color: #DBE2EF;
+  margin: 50px auto auto auto;
+  padding: 20px 0 75px 0;
+}
+
+.message {
+  padding: 50px;
+}
